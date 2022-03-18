@@ -2,8 +2,6 @@
 
 Read Docker-setup to build the image
 
-
-
 ## Kubernetes
 
 ### Google Cloud Platform (GCP)
